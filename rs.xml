@@ -38,9 +38,9 @@
     <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
   </project>
   <!-- <project path="hardware/qcom-caf/msm8998/audio" name="hardware_qcom-caf_msm8998_audio" revision="gl/lineage-19.1-caf-msm8998" remote="githubgl" /> -->
-  <project path="hardware/qcom/sm8150/display" name="LineageOS/android_hardware_qcom_sm8150_display" revision="lineage-19.1" remote="github" />
-  <project path="hardware/qcom/msm8998/media" name="LineageOS/android_hardware_qcom_sm8150_media" revision="lineage-19.1" remote="github" />
-  <project path="hardware/qcom/msm8998/gps" name="LineageOS/android_hardware_qcom_sm8150_gps" revision="lineage-19.1" remote="github" />
+<!--   <project path="hardware/qcom/sm8150/display" name="LineageOS/android_hardware_qcom_sm8150_display" revision="lineage-19.1" remote="github" /> -->
+  <project path="hardware/qcom/sm8150/media" name="LineageOS/android_hardware_qcom_sm8150_media" revision="lineage-19.1" remote="github" />
+  <project path="hardware/qcom/sm8150/gps" name="LineageOS/android_hardware_qcom_sm8150_gps" revision="lineage-19.1" remote="github" />
   <project path="hardware/qcom/vr" name="LineageOS/android_hardware_qcom_vr" revision="lineage-19.1" remote="github" />
 
   <project path="prebuilts/tools-lineage" name="LineageOS/android_prebuilts_tools-lineage" revision="lineage-19.1" remote="github" />
